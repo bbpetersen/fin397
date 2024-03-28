@@ -1,6 +1,8 @@
 ## FIN-397 Quantitative Methods for Investment Analysis (Finance with Python)
 Course material from Spring 2021 FIN-397 course at The McCombs School of Business, University of Texas at Austin.
 
+***Note:  files from local `data/sec` and `data/tiingo` still need to be uploaded***
+
 Content:
 ```
 This course introduces students to a modern quantitative approach to investing implemented in Python.
